@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{AAC9D6C8-4909-AB19-E984-DBB3A0CCA8A2}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "OrderVsChaos",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	]
+}
